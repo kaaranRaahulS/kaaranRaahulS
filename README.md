@@ -47,7 +47,7 @@ I care deeply about **code quality, performance, and system design**, not just m
 * 🛠️ Full-stack AI applications
 * 📚 Learning projects turned into production-quality code
 
-Most of my repos are **hands-on explorations**, not tutorials — built to understand how things work under the hood.
+Most of my repos are **hands-on explorations**, not tutorials, built to understand how things work under the hood.
 
 ---
 
