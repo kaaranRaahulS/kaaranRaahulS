@@ -66,7 +66,3 @@ Most of my repos are **hands-on explorations**, not tutorials, built to understa
 * 🧠 Always open to discussing AI, systems, and interesting ideas
 
 ---
-
-⭐ If you find something useful or fun here, feel free to star a repo — it genuinely helps!
-
----
